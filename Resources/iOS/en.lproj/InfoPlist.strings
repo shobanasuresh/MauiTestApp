@@ -1,0 +1,2 @@
+"NSLocationWhenInUseUsageDescription" = "MauiTestApp uses your location to display your current position.";
+"NSMicrophoneUsageDescription" = "The microphone is used to record audio.";
